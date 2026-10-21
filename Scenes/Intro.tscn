@@ -28,13 +28,13 @@ anchor_right = 0.0
 anchor_bottom = 0.0
 margin_right = 1680.0
 margin_bottom = 71.0
-Text = "PORTFOLIO - GUR LADIZHINSKY"
+Text = "PORTFOLIO - FEY LADIZHINSKAYA"
 Icon = "Hand"
 
 [node name="HBoxContainer" parent="VBoxContainer/Title2" index="0"]
-margin_left = 341.0
+margin_left = 311.0
 margin_top = 0.0
-margin_right = 1339.0
+margin_right = 1369.0
 margin_bottom = 71.0
 
 [node name="IconL" parent="VBoxContainer/Title2/HBoxContainer" index="0"]
@@ -42,12 +42,12 @@ texture = ExtResource( 5 )
 IconName = "Hand"
 
 [node name="Title" parent="VBoxContainer/Title2/HBoxContainer" index="1"]
-margin_right = 904.0
-text = "PORTFOLIO - GUR LADIZHINSKY"
+margin_right = 964.0
+text = "PORTFOLIO - FEY LADIZHINSKAYA"
 
 [node name="IconR" parent="VBoxContainer/Title2/HBoxContainer" index="2"]
-margin_left = 934.0
-margin_right = 998.0
+margin_left = 994.0
+margin_right = 1058.0
 texture = ExtResource( 5 )
 IconName = "Hand"
 
@@ -58,7 +58,7 @@ margin_top = 61.0
 margin_right = 1680.0
 margin_bottom = 118.0
 custom_fonts/font = SubResource( 1 )
-text = "PORTFOLIO - GUR LADIZHINSKY"
+text = "PORTFOLIO - FEY LADIZHINSKAYA"
 align = 1
 
 [node name="Seperator" type="Label" parent="VBoxContainer"]
@@ -73,7 +73,7 @@ margin_right = 1680.0
 margin_bottom = 241.0
 text = "I make video games. Most of them are weird. Some are hopefully fun.
 Have some dates: I was born in 2002. Published my first \"game\" in 2014. Began using Unity in 2017. Finished my Computer Science Bachelor and moved to Berlin in 2024.
-Have some numbers: I participated in 12 Ludum Dares. Won 5th in Humor in 54 and 9th Overall in 56. Showcased a game in a bar’s basement once.
+Have some numbers: I participated in 16 Ludum Dares. Won 5th in Humor in 57 and 9th Overall in 56. Showcased a game in a bar’s basement once.
 
 This is my portfolio. Enjoy your stay! If you wish to contact me, send me an email at gurlad2002@gmail.com."
 autowrap = true
